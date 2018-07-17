@@ -10,7 +10,6 @@ For detail changes, please see file 'diff.txt'.
 
 ----------------------------------------------------------------------------
 Version 1.0.0
-
 1. Removed code/Makefile since it depends on Hall-D software.
 
 2. Modified code/bg_hddm.c to disable HDDM related stuff.
